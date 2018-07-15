@@ -4,4 +4,4 @@ The design being followed was from the following paper-
 Mehta, M., Parmar, V. and Swartzlander, E., 1991, June. High-speed multiplier design using multi-input counter and compressor circuits. In Proceedings 10th IEEE Symposium on Computer Arithmetic (pp. 43-50). IEEE.
 
 The code was implemented using Xillinx ISE.
-The code of the different components used as part of the project are available as spearate repositories.
+The code of the different components used as part of the project are available as separate repositories.
